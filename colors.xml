@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="primaryColor">#706D54</color>
+    <color name="secondaryColor">#A08963</color>
+    <color name="accentColor">#C9B194</color>
+    <color name="backgroundColor">#DBDBDB</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
